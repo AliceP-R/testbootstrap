@@ -1,0 +1,12 @@
+﻿/* style pour la balise body */
+body {
+    font-family: 'Oswald', sans-serif
+}
+
+/* style pour les balises header et footer */
+header, footer {
+    background-color : #333; 
+    color : #ddd; 
+    padding : 20px; 
+    text-align : center;
+}
