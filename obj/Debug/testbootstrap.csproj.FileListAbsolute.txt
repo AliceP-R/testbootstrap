@@ -1,6 +1,0 @@
-c:\users\alice\documents\visual studio 2013\Projects\testbootstrap\bin\testbootstrap.dll.config
-c:\users\alice\documents\visual studio 2013\Projects\testbootstrap\bin\testbootstrap.dll
-c:\users\alice\documents\visual studio 2013\Projects\testbootstrap\bin\testbootstrap.pdb
-c:\users\alice\documents\visual studio 2013\Projects\testbootstrap\obj\Debug\testbootstrap.csprojResolveAssemblyReference.cache
-c:\users\alice\documents\visual studio 2013\Projects\testbootstrap\obj\Debug\testbootstrap.dll
-c:\users\alice\documents\visual studio 2013\Projects\testbootstrap\obj\Debug\testbootstrap.pdb
