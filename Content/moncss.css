@@ -19,5 +19,5 @@ header, footer {
 /* Pour toutes les balises images de la range-list, on définit la taille au lieu de la définir dans chaque balise*/
 .range-list img {
     width: 100%; 
-    height: 100%; 
+    height: 100%;
 }
