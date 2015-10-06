@@ -16,6 +16,30 @@ header, footer {
     text-align : center;
 }
 
+.icon-list {
+    background-color : #808080; 
+    color : #ddd; 
+    padding : 10px; 
+    text-align : center;
+}
+
+.icon-list img {
+    width: 70px; 
+    height: 70px;
+    max-height: 70px; 
+    max-width: 70px;
+}
+
+.icon-list-top div {
+    margin-left: auto; 
+    margin-right: auto; 
+    text-align: center; 
+}
+
+.icon-list-top a {
+    display: inline-block; 
+}
+
 /* Pour toutes les balises images de la range-list, on définit la taille au lieu de la définir dans chaque balise*/
 .range-list img {
     width: 100%; 
