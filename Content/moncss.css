@@ -1,4 +1,9 @@
-﻿/* style pour la balise body */
+﻿/* 
+    quand c'est une balise : nom{} 
+    quand c'est une classe (class="") : .nom 
+*/
+
+/* style pour la balise body */
 body {
     font-family: 'Oswald', sans-serif
 }
@@ -9,4 +14,10 @@ header, footer {
     color : #ddd; 
     padding : 20px; 
     text-align : center;
+}
+
+/* Pour toutes les balises images de la range-list, on définit la taille au lieu de la définir dans chaque balise*/
+.range-list img {
+    width: 100%; 
+    height: 100%; 
 }
